@@ -14,7 +14,7 @@ status       : review-content              # draft, review-content, done
 description  : Practical session on creating [Wardley Maps]
 organizers   :
     - Dinis Cruz
-participants :
+participants : Jon Hawes
 ---
 
 Practical session on creating [Wardley Maps](https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec)
