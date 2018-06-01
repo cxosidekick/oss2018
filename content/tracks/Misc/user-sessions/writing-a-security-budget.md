@@ -13,7 +13,7 @@ status       : draft              # draft, review-content, done
 description  :
 organizers   :
     - Vinal Shah
-participants :
+participants : Jon Hawes
 ---
 
 Practical session on writing a Security Budget
