@@ -13,7 +13,7 @@ status       : review-content     # draft, review-content, done
 description  : This Working Session should result in an improved JIRA Risk Workflow
 organizers   :
     Dinis Cruz
-participants :
+participants : Jon Hawes
 ---
 
 This JIRA Risk Workflow can be used to manage the Risk process and ensure that business owners understand the side effects of the decisions they make.
