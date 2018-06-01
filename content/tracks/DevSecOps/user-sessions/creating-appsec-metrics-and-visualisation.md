@@ -15,6 +15,7 @@ status       : done
 organizers   : Imran Mohammed A
 description  : AppSec Metrics and Visualisation
 participants : Francois Raynaud
+- Jon Hawes
 ---
 
 ## Why
