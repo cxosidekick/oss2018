@@ -18,6 +18,7 @@ organizers   :
     - Imran Mohammed A
     - Paul Dubourg
 participants :
+    - Jon Hawes
 
 ---
 
