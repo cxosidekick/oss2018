@@ -13,6 +13,7 @@ status       : draft              # draft, review-content, done
 organizers   : ["Yvette Connor"]
 participants : 
   - Tony Richards
+  - Jon Hawes
 description  : Session on Risk Modeling
 ---
 
