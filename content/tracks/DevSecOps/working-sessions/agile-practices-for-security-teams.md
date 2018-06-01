@@ -11,7 +11,7 @@ session_slack: https://os-summit.slack.com/messages/CAU62737S
 status       : done
 organizers   : Ante Gulam
 track        : DevSecOps
-participants :
+participants : Jon Hawes
 description  : Agile Practices for Security Teams
 ---
 
