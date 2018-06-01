@@ -15,6 +15,7 @@ status       :                    # draft, review-content, done
 organizers   :
   - Tony Richards
   - Simon Wardley
+participants : Jon Hawes
 description  : Practical session on how to use value chain mapping.
 ---
 
