@@ -21,6 +21,7 @@ participants :
     - John Killilea
     - Simon Pavillon
     - Vladimir Voskresenskiy
+    - Jon Hawes
 ---
 
 Practical session on creating ELK Dashboards
