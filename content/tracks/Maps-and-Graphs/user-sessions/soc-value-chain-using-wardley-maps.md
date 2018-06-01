@@ -19,6 +19,7 @@ participants :
     - Dinis Cruz
     - Jemma Davis-Smith
     - James Wharton
+    - Jon Hawes
 invited:
     - Simon Wardley
     - Tony Richards
